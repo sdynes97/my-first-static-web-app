@@ -1,0 +1,217 @@
+<TestHarness_Component_Results>
+<IAF_TestHarness_Summary>
+<Node>null</Node>
+<Tests_Ran>false</Tests_Ran>
+<Test_Included>2,4,5,6,7,8,10,14</Test_Included>
+<All_Successful>true</All_Successful>
+</IAF_TestHarness_Summary>
+<Component_Result>
+<Type>HttpComponent</Type>
+<Instance>0</Instance>
+<Sequence>0</Sequence>
+<Success>Test Instance Disabled</Success>
+<Description>UUC Component</Description>
+</Component_Result>
+<Component_Result>
+<Type>HttpComponent</Type>
+<Instance>1</Instance>
+<Sequence>1</Sequence>
+<Success>Test Instance Disabled</Success>
+<Description>PI Component</Description>
+</Component_Result>
+<Component_Result>
+<Type>HttpComponent</Type>
+<Instance>2</Instance>
+<Sequence>2</Sequence>
+<Success>true</Success>
+<Elapse_Time>137</Elapse_Time>
+<Description>DM Client Component</Description>
+<Detail>Execution Url = https://terminalws.deere.com/TerminalComponent</Detail>
+<RunStatistics>
+<Startup>February, 15 2022 05:27:05 PM UTC</Startup>
+<Last_Success>February, 15 2022 05:27:05 PM UTC</Last_Success>
+<Successful_From_Startup>1</Successful_From_Startup>
+<Total_Component_Runtime>137</Total_Component_Runtime>
+<Average_Component_Runtime>137</Average_Component_Runtime>
+<Successful_From_Last_Failure>Not Applicable</Successful_From_Last_Failure>
+<Last_Failure>None</Last_Failure>
+<Failed_Count>0</Failed_Count>
+<Current_Failed_Count>0</Current_Failed_Count>
+</RunStatistics>
+</Component_Result>
+<Component_Result>
+<Type>HttpComponent</Type>
+<Instance>3</Instance>
+<Sequence>3</Sequence>
+<Success>Test Instance Disabled</Success>
+<Description>AccountFlex Component</Description>
+</Component_Result>
+<Component_Result>
+<Type>HttpComponent</Type>
+<Instance>4</Instance>
+<Sequence>4</Sequence>
+<Success>true</Success>
+<Elapse_Time>2731</Elapse_Time>
+<Description>Mamos Alert webservice</Description>
+<Detail>Execution Url = </Detail>
+<RunStatistics>
+<Startup>February, 15 2022 05:27:05 PM UTC</Startup>
+<Last_Success>February, 15 2022 05:27:05 PM UTC</Last_Success>
+<Successful_From_Startup>1</Successful_From_Startup>
+<Total_Component_Runtime>2731</Total_Component_Runtime>
+<Average_Component_Runtime>2731</Average_Component_Runtime>
+<Successful_From_Last_Failure>Not Applicable</Successful_From_Last_Failure>
+<Last_Failure>None</Last_Failure>
+<Failed_Count>0</Failed_Count>
+<Current_Failed_Count>0</Current_Failed_Count>
+</RunStatistics>
+</Component_Result>
+<Component_Result>
+<Type>HttpComponent</Type>
+<Instance>5</Instance>
+<Sequence>5</Sequence>
+<Success>true</Success>
+<Elapse_Time>314</Elapse_Time>
+<Description>Remote Cancel and Reorder webservice</Description>
+<Detail>Execution Url = https://sarrms.deere.com/rms/oauth/remote/cancelReorderReprioritizeMachineRequest</Detail>
+<RunStatistics>
+<Startup>February, 15 2022 05:27:05 PM UTC</Startup>
+<Last_Success>February, 15 2022 05:27:05 PM UTC</Last_Success>
+<Successful_From_Startup>1</Successful_From_Startup>
+<Total_Component_Runtime>314</Total_Component_Runtime>
+<Average_Component_Runtime>314</Average_Component_Runtime>
+<Successful_From_Last_Failure>Not Applicable</Successful_From_Last_Failure>
+<Last_Failure>None</Last_Failure>
+<Failed_Count>0</Failed_Count>
+<Current_Failed_Count>0</Current_Failed_Count>
+</RunStatistics>
+</Component_Result>
+<Component_Result>
+<Type>HttpComponent</Type>
+<Instance>6</Instance>
+<Sequence>6</Sequence>
+<Success>true</Success>
+<Elapse_Time>154</Elapse_Time>
+<Description>Remote Procedure List webservice</Description>
+<Detail>Execution Url = https://services.deere.com:443/rms/oauth-rms/remote/remoteProcedureList/1HXS680SEC0123456</Detail>
+<RunStatistics>
+<Startup>February, 15 2022 05:27:05 PM UTC</Startup>
+<Last_Success>February, 15 2022 05:27:05 PM UTC</Last_Success>
+<Successful_From_Startup>1</Successful_From_Startup>
+<Total_Component_Runtime>154</Total_Component_Runtime>
+<Average_Component_Runtime>154</Average_Component_Runtime>
+<Successful_From_Last_Failure>Not Applicable</Successful_From_Last_Failure>
+<Last_Failure>None</Last_Failure>
+<Failed_Count>0</Failed_Count>
+<Current_Failed_Count>0</Current_Failed_Count>
+</RunStatistics>
+</Component_Result>
+<Component_Result>
+<Type>HttpComponent</Type>
+<Instance>7</Instance>
+<Sequence>7</Sequence>
+<Success>true</Success>
+<Elapse_Time>195</Elapse_Time>
+<Description>Queue Programming webservice</Description>
+<Detail>Execution Url = https://sarrms.deere.com/rms/oauth/remote/queueMachineRequest/en</Detail>
+<RunStatistics>
+<Startup>February, 15 2022 05:27:05 PM UTC</Startup>
+<Last_Success>February, 15 2022 05:27:05 PM UTC</Last_Success>
+<Successful_From_Startup>1</Successful_From_Startup>
+<Total_Component_Runtime>195</Total_Component_Runtime>
+<Average_Component_Runtime>195</Average_Component_Runtime>
+<Successful_From_Last_Failure>Not Applicable</Successful_From_Last_Failure>
+<Last_Failure>None</Last_Failure>
+<Failed_Count>0</Failed_Count>
+<Current_Failed_Count>0</Current_Failed_Count>
+</RunStatistics>
+</Component_Result>
+<Component_Result>
+<Type>HttpComponent</Type>
+<Instance>8</Instance>
+<Sequence>8</Sequence>
+<Success>true</Success>
+<Elapse_Time>200</Elapse_Time>
+<Description>Queue Machine Request webservice</Description>
+<Detail>Execution Url = https://sarrms.deere.com/rms/oauth/remote/queueMachineRequest</Detail>
+<RunStatistics>
+<Startup>February, 15 2022 05:27:05 PM UTC</Startup>
+<Last_Success>February, 15 2022 05:27:05 PM UTC</Last_Success>
+<Successful_From_Startup>1</Successful_From_Startup>
+<Total_Component_Runtime>200</Total_Component_Runtime>
+<Average_Component_Runtime>200</Average_Component_Runtime>
+<Successful_From_Last_Failure>Not Applicable</Successful_From_Last_Failure>
+<Last_Failure>None</Last_Failure>
+<Failed_Count>0</Failed_Count>
+<Current_Failed_Count>0</Current_Failed_Count>
+</RunStatistics>
+</Component_Result>
+<Component_Result>
+<Type>HttpComponent</Type>
+<Instance>9</Instance>
+<Sequence>9</Sequence>
+<Success>Test Instance Disabled</Success>
+<Description>User Authorization webservice</Description>
+</Component_Result>
+<Component_Result>
+<Type>HttpComponent</Type>
+<Instance>10</Instance>
+<Sequence>10</Sequence>
+<Success>true</Success>
+<Elapse_Time>95</Elapse_Time>
+<Description>Dealer Authorization Component</Description>
+<Detail>Execution Url = https://terminalws.deere.com/TerminalComponent</Detail>
+<RunStatistics>
+<Startup>February, 15 2022 05:27:05 PM UTC</Startup>
+<Last_Success>February, 15 2022 05:27:05 PM UTC</Last_Success>
+<Successful_From_Startup>1</Successful_From_Startup>
+<Total_Component_Runtime>95</Total_Component_Runtime>
+<Average_Component_Runtime>95</Average_Component_Runtime>
+<Successful_From_Last_Failure>Not Applicable</Successful_From_Last_Failure>
+<Last_Failure>None</Last_Failure>
+<Failed_Count>0</Failed_Count>
+<Current_Failed_Count>0</Current_Failed_Count>
+</RunStatistics>
+</Component_Result>
+<Component_Result>
+<Type>JDBC</Type>
+<Instance>0</Instance>
+<Sequence>11</Sequence>
+<Success>Test Instance Disabled</Success>
+<Description>Test of JDBC access to SAWeb via a Managed Connection</Description>
+</Component_Result>
+<Component_Result>
+<Type>JDBC</Type>
+<Instance>1</Instance>
+<Sequence>12</Sequence>
+<Success>Test Instance Disabled</Success>
+<Description>Test of JDBC access to Account flex via a Managed Connection</Description>
+</Component_Result>
+<Component_Result>
+<Type>HttpComponent</Type>
+<Instance>11</Instance>
+<Sequence>13</Sequence>
+<Success>Test Instance Disabled</Success>
+<Description>Manuals Search</Description>
+</Component_Result>
+<Component_Result>
+<Type>HttpComponent</Type>
+<Instance>12</Instance>
+<Sequence>14</Sequence>
+<Success>true</Success>
+<Elapse_Time>37</Elapse_Time>
+<Description>Test to check connectivity with aws redis</Description>
+<Detail>Execution Url = AWS_REDIS_SITESCOPE_KEY</Detail>
+<RunStatistics>
+<Startup>February, 15 2022 05:27:05 PM UTC</Startup>
+<Last_Success>February, 15 2022 05:27:05 PM UTC</Last_Success>
+<Successful_From_Startup>1</Successful_From_Startup>
+<Total_Component_Runtime>37</Total_Component_Runtime>
+<Average_Component_Runtime>37</Average_Component_Runtime>
+<Successful_From_Last_Failure>Not Applicable</Successful_From_Last_Failure>
+<Last_Failure>None</Last_Failure>
+<Failed_Count>0</Failed_Count>
+<Current_Failed_Count>0</Current_Failed_Count>
+</RunStatistics>
+</Component_Result>
+</TestHarness_Component_Results>
